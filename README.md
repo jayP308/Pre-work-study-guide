@@ -10,7 +10,7 @@ This webpage has information about the materials we gonna learn in class and it 
 
 ## Webpage Link
 
-https://junnel308.github.io/prework---study-guide/
+https://jayp308.github.io/prework-study-guide/
 
 ## Screenshot
 
